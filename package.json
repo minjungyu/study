@@ -1,0 +1,42 @@
+{
+  "name": "proposal-dr-jart",
+  "version": "1.0.0",
+  "description": "Dr.Jart 리뷰용 시안",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "del": "^2.2.0",
+    "es6-promise": "^3.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-csslint": "^0.2.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-htmlhint": "^0.3.0",
+    "gulp-if": "^2.0.0",
+    "gulp-ignore": "^2.0.1",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jsbeautifier": "^1.0.1",
+    "gulp-lb-include": "^0.3.1",
+    "gulp-less": "^3.0.3",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-newer": "^1.1.0",
+    "gulp-nwayo-include": "^0.3.0",
+    "gulp-plumber": "^1.0.1",
+    "run-sequence": "^1.1.5"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cttd/proposal-dr-jart.git"
+  },
+  "contributors": [
+    "정상현 <eyekorea@cttd.co.kr>"
+  ],
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cttd/proposal-dr-jart/issues"
+  },
+  "homepage": "https://github.com/cttd/proposal-dr-jart/blob/master/readme.md"
+}
